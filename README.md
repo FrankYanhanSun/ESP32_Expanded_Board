@@ -1,6 +1,5 @@
 # ESP32 Expanded Board
 This is an expanded board for [LCKFB-ESP32S3R8N8](https://jlcpcb.com/partdetail/lcscboards-LCKFBESP32S3R8N8/C20626143) which ia an open-sourced ESP32s3 minimum system board. You can find the schematic and PCB layout of the board [here](https://oshwhub.com/li-chuang-kai-fa-ban/li-chuang-esp32s3r8n8-kai-fa-ban). Hope you can have fun with this board!
-
 <br>
 
 ## Features
@@ -14,7 +13,7 @@ This is an expanded board for [LCKFB-ESP32S3R8N8](https://jlcpcb.com/partdetail/
   - Dual 12V DC motors via XH2.54 connectors and PH2.0 connectors (motor driver: TB6612FNG)
   - One `SPI` via XH2.54 connector
   - Dual `I2C` via XH2.54 connectors (With another 4 pin header for a 0.96" OLED screen)
-  - 14 GPIO pins with `5V` and `GND` (**`GPIO21`,`GPIO38-GPIO40`,`GPIO46-GPIO48` should not be used when the other connectors are in use**) 
+  - 14 GPIO pins supporting `I2C`, `SPI`, `LCD`, `ACM`, `PWM`, `I2S`, `UART`, `SDIO` etc. with `5V` and `GND` (**`GPIO21`,`GPIO38-GPIO40`,`GPIO46-GPIO48` should not be used when the other connectors are in use. [More info about the pin definition in the datasheet](https://www.lcsc.com/datasheet/lcsc_datasheet_2412061428_LCSC-boards-LCKFB-ESP32S3R8N8_C20626143.pdf)**) 
   - `UART` pins for `TX`, `RX` and `GND`
   
 <br>
