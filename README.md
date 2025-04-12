@@ -31,6 +31,6 @@ If you find any issues for the board, please check the schematic and PCB layout 
   
 ## Leave a star if you like it 🥰
 
-<br>[![Star History Chart](https://api.star-history.com/svg?repos=FrankYanhanSun/USBhub&type=Date)](https://star-history.com/#FrankYanhanSun/USBhub&Date)
+<br>[![Star History Chart](https://api.star-history.com/svg?repos=FrankYanhanSun/ESP32_Expanded_Board&type=Date)](https://www.star-history.com/#FrankYanhanSun/ESP32_Expanded_Board&Date)
 <br>
 © 2025 Yanhan Sun (Frank).
