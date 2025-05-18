@@ -15,17 +15,13 @@ This is an expanded board for [LCKFB-ESP32S3R8N8](https://jlcpcb.com/partdetail/
   - Dual `I2C` via XH2.54 connectors (With another 4 pin header for a 0.96" OLED screen)
   - 14 GPIO pins supporting `I2C`, `SPI`, `LCD`, `ACM`, `PWM`, `I2S`, `UART`, `SDIO` etc. with `5V` and `GND` (**`GPIO21`,`GPIO38-GPIO40`,`GPIO46-GPIO48` should not be used when the other connectors are in use. [More info about the pin definition in the datasheet](https://www.lcsc.com/datasheet/lcsc_datasheet_2412061428_LCSC-boards-LCKFB-ESP32S3R8N8_C20626143.pdf)**) 
   - `UART` pins for `TX`, `RX` and `GND`
-  
 <br>
   
-If you find any issues for the board, please check the schematic and PCB layout first or contact me.
-  
-<br>
+If you find any issues for the board, please check the schematic and PCB layout first or contact me.<br>
   
 ## File Structure
 - `.epro`: Schematic and PCB layout for **Easy EDA**
 - `.zip`: Schematic and PCB layout for **Altium Designer**
-
 <br>
   
 ## Leave a star if you like it 🥰
